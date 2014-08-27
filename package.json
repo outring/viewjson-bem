@@ -9,7 +9,7 @@
     "main": "index",
     "repository": {
         "type": "git",
-        "url": "https://github.com/outring/viewjson-escape.git"
+        "url": "https://github.com/outring/viewjson-bem.git"
     },
     "keywords": [
         "json",
